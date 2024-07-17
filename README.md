@@ -1,5 +1,5 @@
 - 👋 Hi, kutlwano
-- 👀 I’m interested in Data engineering intern
+- 👀 I’m interested in Data engineering
 - 🌱 I’m currently learning Microsoft azure and SQL 
 - 💞️ I’m looking to collaborate on Code development
 - 📫 How to reach me ...
